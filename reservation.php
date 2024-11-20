@@ -34,7 +34,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Success: Redirect to homepage with pop-up message
         echo "<script>
                 alert('Reservation successful!');
-                window.location.href = 'nav.php';  // Redirect to homepage
+                window.location.href = 'index.html';  // Redirect to homepage
               </script>";
     } else {
         echo "Error: " . $sql . "<br>" . $conn->error;
