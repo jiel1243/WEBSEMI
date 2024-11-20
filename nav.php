@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            NIKEE
+        </title>
+        <link rel="stylesheet" href="style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <header class="header">
+            <nav class="navbar">
+                <div class="logo">
+                    <span class="number-logo">12</span>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="reserve.php">Reservation</a></li>
+                </ul>
+            </nav>
+            
+        
+            <div class="poster-image">
+                <img src="img/cocktail.jpg" alt="Poster Image">
+            </div>
+
+            <div class="web-banner">
+            
+                <h2>Welcome to 12 Cocktail Bar</h2>
+                <p>HOME TO AWARD WINNIG BARWOMEN AND BARMEN.</p>
+                <p>Step into a world of vibrant flavors and unforgettable experiences at 12 Cocktail Bar. Whether you're looking for a relaxing night out with friends or a place to celebrate special moments, we’ve got the perfect drink waiting for you. Our skilled bartenders craft expertly mixed cocktails using only the finest ingredients, offering a curated menu that blends timeless classics with unique, innovative creations.
+
+                    At 12 Cocktail Bar, the ambiance is as inviting as our drinks.</p>
+                <a href="#services" class="banner-button">Explore Now</a>
+            </div>
+
+        </header>
+        <section class="reservation-call-to-action">
+            <div class="cta-content">
+                <h2>Ready to Experience the Best Cocktails?</h2>
+                <p>Book your table now and enjoy a night of exceptional cocktails in a vibrant atmosphere at 12 Cocktail Bar.</p>
+                <a href="reserve.php" class="cta-button">Reserve Now</a>
+            </div>
+        </section>
+        <footer class="footer">
+            <div class="footer-content">
+                <div class="footer-logo">
+                    <span class="number-logo">12</span>
+                </div>
+                <div class="footer-socials">
+                    <a href="#" class="social-icon">
+                        <img src="img/facebook.svg" alt="Facebook">
+                    </a>
+                    <a href="#" class="social-icon">
+                        <img src="img/instagram.png" alt="Instagram">
+                    </a>
+                    <a href="#" class="social-icon">
+                        <img src="img/X.svg" alt="Twitter">
+                    </a>
+                    <a href="#" class="social-icon">
+                        <img src="img/youtube.png" alt="YouTube">
+                    </a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 12 Cocktail Bar. All rights reserved.</p>
+            </div>
+        </footer>
+        
+
+    </body>
+    
+    
+</html>
